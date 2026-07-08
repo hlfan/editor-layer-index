@@ -419,6 +419,10 @@ en:
       attribution:
         text: Informação geográfica cedida pela Direção-Geral do Território
       name: Orthophotos of the northern portion of mainland Portugal - 25 cm - 2021 (DGT)
+    ORTOS_DGT_2025_RGB:
+      attribution:
+        text: Informação geográfica cedida pela Direção-Geral do Território
+      name: Orthophotos of mainland Portugal - 25 cm - 2025 (DGT)
     OSIP:
       attribution:
         text: Ohio Statewide Imagery Program
