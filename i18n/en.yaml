@@ -136,6 +136,11 @@ en:
         text: Sentinel-2 cloudless - https://s2maps.eu by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2024)
       description: Post-processed Sentinel Satellite imagery.
       name: eox.at 2024 cloudless
+    EOXAT2025CLOUDLESS:
+      attribution:
+        text: Sentinel-2 cloudless - https://s2maps.eu by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2025)
+      description: Post-processed Sentinel Satellite imagery.
+      name: eox.at 2025 cloudless
     EsriWorldImagery:
       attribution:
         text: Terms & Feedback
