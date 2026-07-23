@@ -273,18 +273,17 @@
             "EPSG:31300",
             "EPSG:31370"
         ],
-        "category": "historicphoto",
+        "best": false,
+        "category": "elevation",
         "country_code": "BE",
-        "end_date": "2020",
         "i18n": true,
         "icon": "https://osmlab.github.io/editor-layer-index/sources/europe/be/UrbIS.png",
-        "id": "UrbISOrtho2020",
+        "id": "UrbISDTM",
         "license_url": "https://bric.brussels/en/our-solutions/urbis-solutions/Licence_Open_data_Fr_v4.pdf",
         "privacy_policy_url": "https://bric.brussels/en/disclaimer-conditions-of-use-of-the-bric-website",
-        "name": "UrbIS-Ortho 2020",
-        "start_date": "2020",
+        "name": "UrbIS Digital Terrain Model",
         "type": "wms",
-        "url": "https://geoservices-urbis.irisnet.be/geoserver/urbisgrid/ows?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&FORMAT=image/png&TRANSPARENT=true&LAYERS=Ortho2020&WIDTH={width}&HEIGHT={height}&CRS={proj}&STYLES=&BBOX={bbox}"
+        "url": "https://geoservices-grid.irisnet.be/geoserver/urbisgrid/ows?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&FORMAT=image/png&TRANSPARENT=true&LAYERS=DTM&WIDTH={width}&HEIGHT={height}&CRS={proj}&STYLES=&BBOX={bbox}"
     },
     "type": "Feature"
 }
