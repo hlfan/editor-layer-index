@@ -2,23 +2,24 @@
     "type": "Feature",
     "properties": {
         "icon": "https://crookcountyor.gov/ImageRepository/Document?documentID=4371",
-        "id": "Crook-2023",
+        "id": "Crook-2026",
         "attribution": {
             "url": "https://crookcountyor.gov/",
             "text": "Crook County GIS",
             "required": false
         },
-        "name": "Crook County Orthoimagery (2023)",
-        "url": "https://gis.crookcountyor.gov/server/rest/services/Hosted/Crook_2023_Imagery/MapServer/tile/{zoom}/{y}/{x}",
+        "name": "Crook County Orthoimagery (2026)",
+        "url": "https://gis.crookcountyor.gov/server/rest/services/Hosted/Crook_County_2026_Imagery/MapServer/tile/{zoom}/{y}/{x}",
         "max_zoom": 20,
         "min_zoom": 11,
         "license_url": "https://osmlab.github.io/editor-layer-index/sources/north-america/us/or/Crook.pdf",
         "country_code": "US",
         "type": "tms",
-        "start_date": "2023",
-        "end_date": "2023",
-        "category": "historicphoto",
+        "start_date": "2026",
+        "end_date": "2026",
+        "category": "photo",
         "privacy_policy_url": "https://crookcountyor.gov/site/privacy",
+        "best": true,
         "valid-georeference": true
     },
     "geometry": {
