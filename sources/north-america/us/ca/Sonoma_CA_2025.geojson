@@ -1,15 +1,15 @@
 {
     "type": "Feature",
     "properties": {
-        "id": "Santa_Rosa_CA_2025",
+        "id": "Sonoma_CA_2025",
         "attribution": {
-            "url": "https://www.srcity.org/",
-            "text": "City of Santa Rosa",
+            "url": "https://sonomacounty.gov/",
+            "text": "Sonoma County",
             "required": false
         },
-        "name": "City of Santa Rosa Orthoimagery (2025)",
-        "icon": "https://www.srcity.org/ImageRepository/Document?documentID=32",
-        "url": "https://ags2maps.srcity.org/arcgis/rest/services/Aerial_2025_SR/MapServer/export?f=image&format=jpg&bbox={bbox}&bboxSR={wkid}&imageSR={wkid}&size={width},{height}",
+        "name": "Sonoma County Orthoimagery (2025)",
+        "icon": "https://sonomacounty.gov/Main%20County%20Site/General/Web%20Team/Images/county_seal_200.png",
+        "url": "https://ags2maps.srcity.org/arcgis/rest/services/Aerial_2025_County/MapServer/export?f=image&format=jpg&bbox={bbox}&bboxSR={wkid}&imageSR={wkid}&size={width},{height}",
         "max_zoom": 23,
         "license_url": "https://wiki.openstreetmap.org/wiki/California#Publicly_Available_Data",
         "country_code": "US",
@@ -18,9 +18,9 @@
             "CRS:84",
             "EPSG:3857"
         ],
-        "start_date": "2025-04",
-        "end_date": "2025-04",
-        "description": "2025 3-inch resolution imagery for Santa Rosa in the State of California",
+        "start_date": "2025",
+        "end_date": "2025",
+        "description": "2025 imagery for Sonoma County in the State of California",
         "category": "photo",
         "privacy_policy_url": "https://www.srcity.org/124/Privacy-Policy"
     },
