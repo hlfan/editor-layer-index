@@ -13,12 +13,7 @@
         "max_zoom": 23,
         "license_url": "https://wiki.openstreetmap.org/wiki/California#Publicly_Available_Data",
         "country_code": "US",
-        "type": "wms",
-        "available_projections": [
-            "CRS:84",
-            "EPSG:4326",
-            "EPSG:3857"
-        ],
+        "type": "tms",
         "start_date": "2023",
         "end_date": "2023",
         "description": "2023 3-inch resolution imagery for Stockton in the State of California",
