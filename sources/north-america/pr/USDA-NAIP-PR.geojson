@@ -7,7 +7,7 @@
             "text": "U.S. Department of Agriculture",
             "required": false
         },
-        "name": "National Agriculture Imagery Program (PR/USVI)",
+        "name": "National Agriculture Imagery Program (PR)",
         "type": "wms",
         "url": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2021_PuertoRico/ImageServer/exportImage?f=image&format=jpg&bbox={bbox}&imageSR={wkid}&bboxSR={wkid}&size={width},{height}",
         "available_projections": [
